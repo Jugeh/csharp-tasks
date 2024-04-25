@@ -1,0 +1,11 @@
+TO DO:
+
+- konepelaajan setit
+
+- Pelaa() metodi (pokerista mallia)
+
+- SQL commandit kuntoon
+
+- Laskuri ID tai kokeile vielä auto incrementtiä (sql ei mysql)
+
+- Tarkista constr
